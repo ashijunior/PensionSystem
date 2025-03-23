@@ -1,0 +1,6 @@
+@PensionContributionSystem_HostAddress = http://localhost:5153
+
+GET {{PensionContributionSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
