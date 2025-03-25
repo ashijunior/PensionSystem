@@ -4,7 +4,6 @@ C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\te
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\xunit.abstractions.dll
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\PensionContributionSystem.deps.json
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\PensionContributionSystem.runtimeconfig.json
-C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\appsettings.json
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\PensionContributionSystem.exe
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\testhost.exe
@@ -281,3 +280,5 @@ C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\obj\Debug\net8.0\re
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\obj\Debug\net8.0\PensionContributionSystemTest.pdb
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\obj\Debug\net8.0\PensionContributionSystemTest.genruntimeconfig.cache
 C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\obj\Debug\net8.0\ref\PensionContributionSystemTest.dll
+C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\obj\Debug\net8.0\PensionContributionSystemTest.sourcelink.json
+C:\Users\MY PC\Desktop\Pension\PensionContributionSystemTest\bin\Debug\net8.0\appsettings.Production.json

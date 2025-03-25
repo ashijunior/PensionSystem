@@ -15,6 +15,12 @@ namespace PensionContributionSystem.Context
 
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
+        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+        {
+            configurationBuilder.Properties<decimal>()
+                .HavePrecision(18, 2);
+        }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Member>().HasQueryFilter(m => !m.IsDeleted);

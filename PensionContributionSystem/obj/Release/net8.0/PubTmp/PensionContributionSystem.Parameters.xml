@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PensionContributionSystem20250325152932" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\MY\ PC\\Desktop\\Pension\\PensionContributionSystem\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="PensionContributionSystem.Context.AppDbContext" description="" value="Data Source=pension-contributionsystem-dbserver.database.windows.net,1433;Initial Catalog=PensionContributionSystem_db;User ID=ashi;Password=Password1" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\MY\ PC\\Desktop\\Pension\\PensionContributionSystem\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\PensionContributionSystem\.Context\.AppDbContext\.sql$" />
+  </parameter>
+</parameters>

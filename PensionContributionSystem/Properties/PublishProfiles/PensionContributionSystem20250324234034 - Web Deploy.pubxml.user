@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAi0vatwAQcEWb/YQNkfyFJQAAAAACAAAAAAAQZgAAAAEAACAAAADNP1IVz8NX8+KVHXaQdzde/kMaenWIoVXLrMd7cZjmrgAAAAAOgAAAAAIAACAAAAAClYsI0Ikm2wMOy9c5h2xDoxz5yly9YstYZm+KXrci3YAAAABQDA9LKXxdqwquMpOTKhSUa+xm1aM6b3tfRddcGwhdZWqsAVcAddfNgwNZ927f19+ky0jJ5S42EEVd5hOkLLyxjk4ar92SEpNW5gMjeOrw6lM+DVn8cHsbBAHYYl+FS79cnj7lmnZi+KXmq+K8m2hGJ4hun3cyldVuB6A68/uG7EAAAACfoK4b8ullfZvgEPTQ0u0GqCbgHvCycNOAOJxFvR5ys8hUPMCVANZ/mA/Ic79cBSF3KjF/89a9mWsqVVKHiZbM</EncryptedPassword>
+    <History>True|2025-03-24T23:41:36.9775338Z;True|2025-03-25T00:27:59.0529790+01:00;True|2025-03-25T00:26:08.9128048+01:00;True|2025-03-25T00:21:36.9048397+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="PensionContributionSystem.Context.AppDbContext">
+      <Value>Data Source=pensioncontributionsystemdbserver.database.windows.net,1433%3bInitial Catalog=PensionContributionSystem_db%3bUser ID=ashi%3bPassword=Password1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

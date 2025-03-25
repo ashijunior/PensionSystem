@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAi0vatwAQcEWb/YQNkfyFJQAAAAACAAAAAAAQZgAAAAEAACAAAACZkk7FV6GwN89zjDfAkiCS0mj7yWFelCVoZ1bYzDsV/wAAAAAOgAAAAAIAACAAAACd7+CDVSzIlKrj7nt20p98Ru0gfsfLJ0oR4LJMwL4kpIAAAAA/Ne5ET6Sfy4/UJesRVojLiEfU1oqv/oNCzVpBf7wgOZ2Z7fxpGYkv0adx8F7MhgLK4YedHv8gxgd4CCfMV0Y2ShV7QKSrIsVmGwajskCFeZrk6evEpP+9vpCw/1eQFRy204is8bUUp6NqQhAaza+zbiiD36xw9k+74pn+jA9n/kAAAABzKlbXjmob1Hu25AxMcx6NoJA9Q23p7Y6/ZqOUL6mv1ihN9EcsyIQvD3tJ187g8SIqlqsGXtNK9oMlnJ0tyDkV</EncryptedPassword>
+    <History>True|2025-03-25T01:54:57.2437609Z;True|2025-03-25T02:51:39.4049059+01:00;True|2025-03-25T02:49:21.2659129+01:00;True|2025-03-25T02:47:38.3537691+01:00;True|2025-03-25T02:44:19.4915006+01:00;True|2025-03-25T02:42:37.5148227+01:00;True|2025-03-25T02:37:16.0392054+01:00;True|2025-03-25T02:28:08.3644439+01:00;True|2025-03-25T02:16:01.1083049+01:00;True|2025-03-25T02:10:38.8226451+01:00;True|2025-03-25T02:06:11.8723446+01:00;True|2025-03-25T01:58:19.5050521+01:00;True|2025-03-25T01:47:39.5840859+01:00;True|2025-03-25T01:08:38.2332006+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="PensionContributionSystem.Context.AppDbContext">
+      <Value>Data Source=pensioncontributionsystemhjbdbserver.database.windows.net,1433%3bInitial Catalog=PensionContributionSystemhJb_db%3bUser ID=ashi%3bPassword=Password1</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
